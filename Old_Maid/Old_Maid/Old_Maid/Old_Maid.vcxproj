@@ -132,10 +132,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\source\cardsDeterminations.c" />
     <ClCompile Include="..\..\source\main.c" />
     <ClCompile Include="..\..\source\preset.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\include\cardsDeterminations.h" />
     <ClInclude Include="..\..\include\preset.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
