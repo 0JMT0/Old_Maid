@@ -132,11 +132,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\source\cardsDeterminations.c" />
     <ClCompile Include="..\..\source\main.c" />
     <ClCompile Include="..\..\source\preset.c" />
     <ClCompile Include="..\..\source\show.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\include\cardsDeterminations.h" />
     <ClInclude Include="..\..\include\preset.h" />
     <ClInclude Include="..\..\include\show.h" />
   </ItemGroup>

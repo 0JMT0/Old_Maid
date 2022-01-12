@@ -17,6 +17,7 @@
     <ClCompile Include="..\..\source\preset.c">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\source\cardsDeterminations.c">
     <ClCompile Include="..\..\source\show.c">
       <Filter>source</Filter>
     </ClCompile>
@@ -25,6 +26,7 @@
     <ClInclude Include="..\..\include\preset.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\include\cardsDeterminations.h">
     <ClInclude Include="..\..\include\show.h">
       <Filter>include</Filter>
     </ClInclude>
